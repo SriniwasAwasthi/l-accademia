@@ -348,19 +348,21 @@ Click or open the local link generated in your terminal:
 
 ---
 
-## 💖 Thank You for Visiting!
+---
 
-> *"Thank you so much for taking the time to explore L'Accademia!"* 🌟
+## 💖 Thank You for Exploring L'Accademia!
 
-Taking your precious time to inspect this project, walk through the features, and review my code means the world to me. Every single repository I build is an opportunity to learn, innovate, and push the boundaries of software engineering.
+> *"Learning is a lifelong adventure—thank you for being part of it!"* 🏛️
 
-- 🌟 **Enjoyed the project?** Feel free to leave a **Star** on this repository—your support provides immense motivation to keep building exciting projects!
-- 📬 **Let's Connect:** I am always open to constructive feedback, technical discussions, and exciting engineering opportunities. Feel free to explore my other repositories or connect with me directly on [GitHub](https://github.com/SriniwasAwasthi).
+I am truly honored that you took the time to review L'Accademia. Designing an AI-guided learning platform that simplifies complex interview topics and visual lessons has been an inspiring journey in accessible educational technology.
 
-*Wishing you a wonderful day ahead, and thank you once again for stopping by!* ✨
+- 🌟 **Inspired by the platform?** A star on this repository helps amplify accessible AI education!
+- 📬 **Let's Connect:** I would love to hear your thoughts on AI tutoring algorithms and frontend educational UX. Connect with me on [GitHub](https://github.com/SriniwasAwasthi).
+
+*May your quest for knowledge always lead to exciting discoveries!* ✨
 
 ---
 
 <div align="center">
-  <sub>Crafted with passion by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+  <sub>Crafted with dedication to lifelong learning by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>

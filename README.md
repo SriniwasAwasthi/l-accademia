@@ -287,7 +287,7 @@ L-ACCADEMIA-main/
 
 ```mermaid
 graph TD
-    Learner["👤 Student"] --> Portal["🏛️ L'Accademia Learning Portal"]
+    Learner["👤 Student"] --> Portal["🏛️ L-Accademia Learning Portal"]
     Portal --> QA["💬 Real-Time AI Q&A Assistant"]
     Portal --> Interview["🎯 Technical Interview Simulator"]
     Portal --> Quizzes["🧩 Visual Quiz Engine"]
@@ -323,7 +323,7 @@ npm run dev
 
 ### 6. Open in Your Browser
 Click or open the local link generated in your terminal:
-Open your browser to the local development server address shown in your terminal.
+👉 **`http://localhost:5173/`**
 
 ---
 

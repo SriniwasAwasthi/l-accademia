@@ -283,6 +283,17 @@ L-ACCADEMIA-main/
 
 ---
 
+## 🏛️ System Architecture
+
+```mermaid
+graph TD
+    Learner["👤 Student"] --> Portal["🏛️ L'Accademia Learning Portal"]
+    Portal --> QA["💬 Real-Time AI Q&A Assistant"]
+    Portal --> Interview["🎯 Technical Interview Simulator"]
+    Portal --> Quizzes["🧩 Visual Quiz Engine"]
+    Portal --> Paths["📈 Personalized Daily Learning Curves"]
+```
+
 ## 💻 Step-by-Step Installation Guide
 
 Follow these simple steps to run **L'ACCADEMIA** locally on your machine:
@@ -327,53 +338,16 @@ Click or open the local link generated in your terminal:
 
 ---
 
-## 💖 A Heartfelt Thank You
-
-> ### 🌟 Thank You for Exploring L'ACCADEMIA! 🎨✨
->
-> Thank you so much for taking your valuable time to visit **L'ACCADEMIA** and explore this project! 💖
-> It brings me immense joy to share this passion project with you. Fusing classical Renaissance art with modern AI technology has been an incredible creative journey, and I am truly grateful that you stopped by to experience it. 🌿✨
->
-> Whether you came to discover new ideas, review the code, or simply explore around, I hope this repository sparks your curiosity and brightens your day! 🚀💫
->
-> 🌈 If you enjoyed your time here, please feel free to leave a ⭐️ **Star** on GitHub—it means the world to me and keeps the creative spirit burning bright!
->
-> Wishing you endless inspiration, joy, and grand success in everything you do! 🚀✨ Have a wonderful day ahead! 💖🎨
-
 ---
 
-<p align="center">
-  Made with ❤️ & Classical Passion by <b>Sriniwas Awasthi</b>
-</p>
+## 💖 Thank You for Visiting & Exploring 🏛️ L'ACCADEMIA — The Renaissance Guild Academy of eLearning & AI Systems!
+
+> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+
+* 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
+* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com).
 
 ---
-
----
-
-## 💖 Thank You for Exploring L'Accademia!
-
-> *"Learning is a lifelong adventure—thank you for being part of it!"* 🏛️
-
-I am truly honored that you took the time to review L'Accademia. Designing an AI-guided learning platform that simplifies complex interview topics and visual lessons has been an inspiring journey in accessible educational technology.
-
-- 🌟 **Inspired by the platform?** A star on this repository helps amplify accessible AI education!
-- 📬 **Let's Connect:** I would love to hear your thoughts on AI tutoring algorithms and frontend educational UX. Connect with me on [GitHub](https://github.com/SriniwasAwasthi).
-
-*May your quest for knowledge always lead to exciting discoveries!* ✨
-
----
-
 <div align="center">
-  <sub>Crafted with dedication to lifelong learning by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+  <sub>Designed & Crafted with Passion by <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a> • Continuous Learner & Software Engineer</sub>
 </div>
-
-## 🏛️ Platform Architecture
-
-```mermaid
-graph TD
-    Learner["👤 Student"] --> Portal["🏛️ L'Accademia Learning Portal"]
-    Portal --> QA["💬 Real-Time AI Q&A Assistant"]
-    Portal --> Interview["🎯 Technical Interview Simulator"]
-    Portal --> Quizzes["🧩 Visual Quiz Engine"]
-    Portal --> Paths["📈 Personalized Daily Learning Curves"]
-```

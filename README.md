@@ -366,3 +366,14 @@ I am truly honored that you took the time to review L'Accademia. Designing an AI
 <div align="center">
   <sub>Crafted with dedication to lifelong learning by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
+
+## 🏛️ Platform Architecture
+
+```mermaid
+graph TD
+    Learner["👤 Student"] --> Portal["🏛️ L'Accademia Learning Portal"]
+    Portal --> QA["💬 Real-Time AI Q&A Assistant"]
+    Portal --> Interview["🎯 Technical Interview Simulator"]
+    Portal --> Quizzes["🧩 Visual Quiz Engine"]
+    Portal --> Paths["📈 Personalized Daily Learning Curves"]
+```

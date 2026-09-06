@@ -117,14 +117,14 @@ Every panel, padding ratio, and serif font header strictly respects classical pr
   6. *The Digital Cathedral: Architecture & Acoustics of Collaborative Spaces* — Architecta Sofia Borromeo
 * Filter by Faculty and Mastery Level.
 
-### 6. 🏆 The Three Pillars of L'Accademia (`PillarsSection.tsx`)
+### 6. 🏆 The Three Pillars of L-Accademia (`PillarsSection.tsx`)
 Interactive tabs presenting 3 core pedagogical pillars:
 * **Pillar I** — Socratic Dialectic vs. Formulaic Quizzes
 * **Pillar II** — Sensory Typography & Linear Perspective UX
 * **Pillar III** — The Bottega Workshop & Guild Apprenticeship
 
 ### 7. 📊 Comparison Section (`ComparisonSection.tsx`)
-* Comprehensive comparison matrix contrasting **Standard Corporate LMS** with **L'Accademia Engine**.
+* Comprehensive comparison matrix contrasting **Standard Corporate LMS** with **L-Accademia Engine**.
 
 ### 8. 💳 Patronage & Licensing Plans (`PricingPatrons.tsx`)
 * Flexible pricing tiers (*Solo Scholar*, *Guild Studio*, *Medici Enterprise Enclave*).
@@ -136,7 +136,7 @@ Interactive tabs presenting 3 core pedagogical pillars:
 ### 10. 📧 Footer — The Florentine Journal (`Footer.tsx`)
 * Newsletter subscription form with confetti animation on success.
 * Navigation links to all sections: Faculties, Platform Suite, Medici Patronage.
-* Colophon: © 2026 L'Accademia Veneziano Inc. — SOC-2 & GDPR Compliant.
+* Colophon: © 2026 L-Accademia Veneziano Inc. — SOC-2 & GDPR Compliant.
 
 ---
 
@@ -222,7 +222,7 @@ The `Images/` folder contains **8 annotated screenshots** capturing every major 
 **Section:** Testimonials — "Praise from Institutional Laureates"  
 **What it shows:** The Testimonials carousel — Voices of the Guild:
 - Left: Grand Victorian university library photo (King's College Digital Humanities Lab) with ★5.0/5.0 rating.
-- Right: Quote by **Dr. Jonathan Sterling**, Dean of Academic Innovation — *"L'Accademia has forever spoiled traditional corporate LMS products... it feels less like training software and more like entering the Medici library in Florence."* Verified Medici Patron badge.
+- Right: Quote by **Dr. Jonathan Sterling**, Dean of Academic Innovation — *"L-Accademia has forever spoiled traditional corporate LMS products... it feels less like training software and more like entering the Medici library in Florence."* Verified Medici Patron badge.
 
 ![08 – Testimonials Voices of Guild](Images/08-testimonials-voices-of-guild.png)
 

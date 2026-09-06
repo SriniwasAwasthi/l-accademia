@@ -323,7 +323,7 @@ npm run dev
 
 ### 6. Open in Your Browser
 Click or open the local link generated in your terminal:
-👉 **`http://localhost:5173/`**
+Open your browser to the local development server address shown in your terminal.
 
 ---
 

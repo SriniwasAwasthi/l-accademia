@@ -2,11 +2,11 @@
 
 [![Vite](https://img.shields.io/badge/Vite-7.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-amber-yellow?style=for-the-badge)](LICENSE)
 
-> *"I cannot teach anybody anything. I can only make them think."* — **Socrates**
+> *\"I cannot teach anybody anything. I can only make them think.\"* — **Socrates**
 
 ---
 
@@ -21,7 +21,6 @@
 - [📁 Project Folder Structure](#-project-folder-structure)
 - [💻 Step-by-Step Installation Guide](#-step-by-step-installation-guide)
 - [🛠️ Tech Stack & Architecture](#️-tech-stack--architecture)
-- [💖 A Heartfelt Thank You](#-a-heartfelt-thank-you)
 
 ---
 
@@ -76,7 +75,7 @@ Traditional online learning platforms face major challenges:
 ```
 
 ### 1. The Socratic Method vs. Multiple Choice
-Instead of asking *"Select option A, B, or C"*, the Socratic approach asks *"Why does this proportional weight balance the structure?"* This trains learners to think critically, eliminate invalid assumptions, and build lasting conceptual intuition.
+Instead of asking *\"Select option A, B, or C\"*, the Socratic approach asks *\"Why does this proportional weight balance the structure?\"* This trains learners to think critically, eliminate invalid assumptions, and build lasting conceptual intuition.
 
 ### 2. Golden Ratio Optical Harmony
 Every panel, padding ratio, and serif font header strictly respects classical proportions, guiding eye movement naturally across 3 dashboard panels without visual noise.
@@ -91,7 +90,7 @@ Every panel, padding ratio, and serif font header strictly respects classical pr
 * **My Courses Drawer**: Slide-over panel tracking enrolled masterclasses.
 
 ### 2. 🏛️ Hero — Landing Page (`Hero.tsx`)
-* **Full-screen cinematic headline**: *"Where Classical Wisdom Meets Modern Mastery"*
+* **Full-screen cinematic headline**: *\"Where Classical Wisdom Meets Modern Mastery\"*
 * **Fibonacci Grid Overlay**: Toggle the PHI Ratio (1.618) spatial grid active/hidden.
 * **Socrates AI Live Preview**: Shows a live AI chat bubble with a question about Self-Attention and Da Vinci's equilibrium.
 * **Social Proof Bar**: ★ 4.98/5.0 — adopted by 14,000+ scholars, engineering heads, and university deans.
@@ -149,9 +148,9 @@ The `Images/` folder contains **8 annotated screenshots** capturing every major 
 ### 📸 `01-hero-homepage.png`
 **Section:** Hero — Homepage / Landing Page  
 **What it shows:** The full-screen landing section in **Dark Velvet Chiaroscuro mode**.
-- Left: Headline *"Where Classical Wisdom Meets Modern Mastery"*, 3 feature badges, 3 CTA buttons.
+- Left: Headline *\"Where Classical Wisdom Meets Modern Mastery\"*, 3 feature badges, 3 CTA buttons.
 - Right: Cinematic preview card with Renaissance library, Socrates AI chat bubble, Fibonacci grid toggle, Mastery Metrica (+312% vs Corp LMS), Featured Salon Lecture badge.
-- Bottom: ★ 4.98/5.0 social proof bar + "Guaranteed by the Medici Guild" badge.
+- Bottom: ★ 4.98/5.0 social proof bar + \"Guaranteed by the Medici Guild\" badge.
 
 ![01 – Hero Homepage](Images/01-hero-homepage.png)
 
@@ -168,8 +167,8 @@ The `Images/` folder contains **8 annotated screenshots** capturing every major 
 ### 📸 `03-pillar-i-socratic-dialectic.png`
 **Section:** Pillar I — Socratic Dialectic vs Formulaic Quizzes (Full Detail)  
 **What it shows:**
-- Left: AI-rendered marble statue of Socrates of Athens in chiaroscuro light, with the quote *"I cannot teach anybody anything. I can only make them think."*
-- Right: Full Socratic method description with 4 key capabilities — dialectical debates, AI citations, adaptive challenge levels, PDF export. CTA: *"Preview AI Socratic Course →"*
+- Left: AI-rendered marble statue of Socrates of Athens in chiaroscuro light, with the quote *\"I cannot teach anybody anything. I can only make them think.\"*
+- Right: Full Socratic method description with 4 key capabilities — dialectical debates, AI citations, adaptive challenge levels, PDF export. CTA: *\"Preview AI Socratic Course →\"*
 
 ![03 – Pillar I Socratic Dialectic](Images/03-pillar-i-socratic-dialectic.png)
 
@@ -198,20 +197,18 @@ The `Images/` folder contains **8 annotated screenshots** capturing every major 
 ---
 
 ### 📸 `06-live-lms-workspace-demo.png`
-**Section:** Live LMS Workspace — "Test Drive the Live Workspace"  
+**Section:** Live LMS Workspace — \"Test Drive the Live Workspace\"  
 **What it shows:** The full **3-panel interactive LMS Studio** in action:
 - **Left Panel** — Syllabus Models Sidebar: 3 demo lectures (14:22, 21:05, 18:40) with + New Model button and delete buttons.
 - **Center Panel** — Cinema Canvas: Lecture I preview card (Linear Perspective & Neural Attention Layers), Video Summary & Core Takeaways, Take Quiz → CTA.
-- **Right Panel** — Socrates AI Tutor: Full live chat with greeting, user question about Brunelleschi's perspective in modern UI/UX, and Socrates' detailed answer. Quick suggestion pills below.
-
-![06 – Live LMS Workspace Demo](Images/06-live-lms-workspace-demo.png)
+- **Right Panel** — Socrates AI Tutor: Full live chat with greeting, user question about Brunelleschi's perspective in modern UI/UX, and Socrates' detailed answer. Quick suggestion pills below.\n\n![06 – Live LMS Workspace Demo](Images/06-live-lms-workspace-demo.png)
 
 ---
 
 ### 📸 `07-institutional-creator-bottega.png`
-**Section:** Institutional Creator Bottega — "Build Courses Like an Old Master"  
+**Section:** Institutional Creator Bottega — \"Build Courses Like an Old Master\"  
 **What it shows:** The Creator Bottega in Syllabus Architect Blueprint mode:
-- Left: AI Socratic Syllabus Architect description with feature checkboxes (SCORM/LTI exports, auto-checkpoints). CTA: *"Request University & Institutional Demo →"*
+- Left: AI Socratic Syllabus Architect description with feature checkboxes (SCORM/LTI exports, auto-checkpoints). CTA: *\"Request University & Institutional Demo →\"*
 - Right (dark panel): Live Syllabus Draft Workshop with 3 generated modules (01 Architectural Foundations, 02 Socratic Checkpoints, 03 Capstone Guild Review) + Generate Module form input.
 
 ![07 – Institutional Creator Bottega](Images/07-institutional-creator-bottega.png)
@@ -219,10 +216,10 @@ The `Images/` folder contains **8 annotated screenshots** capturing every major 
 ---
 
 ### 📸 `08-testimonials-voices-of-guild.png`
-**Section:** Testimonials — "Praise from Institutional Laureates"  
+**Section:** Testimonials — \"Praise from Institutional Laureates\"  
 **What it shows:** The Testimonials carousel — Voices of the Guild:
 - Left: Grand Victorian university library photo (King's College Digital Humanities Lab) with ★5.0/5.0 rating.
-- Right: Quote by **Dr. Jonathan Sterling**, Dean of Academic Innovation — *"L-Accademia has forever spoiled traditional corporate LMS products... it feels less like training software and more like entering the Medici library in Florence."* Verified Medici Patron badge.
+- Right: Quote by **Dr. Jonathan Sterling**, Dean of Academic Innovation — *\"L-Accademia has forever spoiled traditional corporate LMS products... it feels less like training software and more like entering the Medici library in Florence.\"* Verified Medici Patron badge.
 
 ![08 – Testimonials Voices of Guild](Images/08-testimonials-voices-of-guild.png)
 
@@ -234,41 +231,11 @@ The `Images/` folder contains **8 annotated screenshots** capturing every major 
 L-ACCADEMIA-main/
 │
 ├── 📁 Images/                               ← UI Screenshots & Visual Documentation
-│   ├── 00-browser-context-drive.png         ← Design reference Drive (Arc Browser tabs)
-│   ├── 01-hero-homepage.png                 ← Hero / Landing Page (Dark Mode)
-│   ├── 02-three-pillars-overview.png        ← Three Pillars Section – Tab Overview
-│   ├── 03-pillar-i-socratic-dialectic.png   ← Pillar I Detail (Socratic Dialectic)
-│   ├── 04-masterclass-salon-top-row.png     ← Masterclass Salon – Courses 1–3
-│   ├── 05-masterclass-salon-bottom-row.png  ← Masterclass Salon – Courses 4–6
-│   ├── 06-live-lms-workspace-demo.png       ← Live LMS 3-Panel Workspace
-│   ├── 07-institutional-creator-bottega.png ← Creator Bottega (Syllabus Builder)
-│   └── 08-testimonials-voices-of-guild.png  ← Testimonials Carousel
-│
 ├── 📁 public/
 │   └── 📁 images/                           ← Runtime AI-generated course images
-│       ├── statue-ai.jpg                    ← Socratic AI marble statue (Pillar I, Course 1)
-│       ├── hero-renaissance.jpg             ← Grand Italian palazzo (Hero section)
-│       ├── vitruvian-tech.jpg               ← Da Vinci Vitruvian + digital overlay (Course 2)
-│       └── botanical-astronomy.jpg          ← Renaissance astrolabe & star charts (Course 3)
-│
 ├── 📁 src/
-│   ├── 📁 components/
-│   │   ├── Navbar.tsx                       ← Navigation, theme toggle, audio toggle
-│   │   ├── Hero.tsx                         ← Landing hero with Fibonacci grid
-│   │   ├── PillarsSection.tsx               ← 3 pedagogical pillars
-│   │   ├── CourseSalon.tsx                  ← Masterclass catalog & filters
-│   │   ├── LmsWorkspaceDemo.tsx             ← Full 3-panel live LMS demo
-│   │   ├── CreatorBottega.tsx               ← Syllabus builder & analytics
-│   │   ├── ComparisonSection.tsx            ← LMS comparison table
-│   │   ├── PricingPatrons.tsx               ← Pricing plans
-│   │   ├── Testimonials.tsx                 ← Testimonials carousel
-│   │   ├── EnrollmentModal.tsx              ← Enrollment form modal
-│   │   ├── MyCoursesDrawer.tsx              ← Enrolled courses side drawer
-│   │   └── Footer.tsx                       ← Newsletter + footer links
-│   │
-│   ├── 📁 data/
-│   │   └── courses.ts                       ← All course data, testimonials, plan tiers
-│   │
+│   ├── 📁 components/                       ← Navigation, Hero, Pillars, Workspace, Salon
+│   ├── 📁 data/                             ← All course data, testimonials, plan tiers
 │   ├── App.tsx                              ← Root orchestrator & global state
 │   ├── main.tsx                             ← React DOM entry point
 │   ├── types.ts                             ← TypeScript interfaces
@@ -304,26 +271,18 @@ Ensure you have **Node.js (v18.0 or higher)** and **npm** installed on your syst
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/SriniwasAwasthi/L-ACCADEMIA.git
-```
-
-### 3. Navigate into the Project Directory
-```bash
 cd L-ACCADEMIA
 ```
 
-### 4. Install Dependencies
+### 3. Install Dependencies
 ```bash
 npm install
 ```
 
-### 5. Start the Development Server
+### 4. Start the Development Server
 ```bash
 npm run dev
 ```
-
-### 6. Open in Your Browser
-Click or open the local link generated in your terminal:
-👉 **`http://localhost:5173/`**
 
 ---
 
@@ -338,14 +297,12 @@ Click or open the local link generated in your terminal:
 
 ---
 
----
-
 ## 💖 Thank You for Visiting & Exploring 🏛️ L'ACCADEMIA — The Renaissance Guild Academy of eLearning & AI Systems!
 
-> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+> *\"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey.\"* 🚀
 
-* 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
-* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com)
+* 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!\
+* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com)\
   * 🌐 **LinkedIn:** [https://www.linkedin.com/in/sriniwas-awasthi/](https://www.linkedin.com/in/sriniwas-awasthi/).
 
 ---
